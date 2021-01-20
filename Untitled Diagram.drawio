@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T12:11:27.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.5" etag="ml3WYzXw5hMFncNGJpLE" type="github"><diagram id="hF4Je-sglEtEFDx0X0MG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-20T13:01:10.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="SGPl9YBMnU69b1oF6vlU" version="14.2.5" type="github">
+  <diagram id="hF4Je-sglEtEFDx0X0MG" name="Page-1">
+    <mxGraphModel dx="1656" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-640" width="670" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-3" value="Concesionario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="-630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJ0_NsSVP1oYTgmPWNTH-4" target="IJ0_NsSVP1oYTgmPWNTH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJ0_NsSVP1oYTgmPWNTH-4" target="IJ0_NsSVP1oYTgmPWNTH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJ0_NsSVP1oYTgmPWNTH-4" target="IJ0_NsSVP1oYTgmPWNTH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-4" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="IJ0_NsSVP1oYTgmPWNTH-16" target="IJ0_NsSVP1oYTgmPWNTH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-5" value="Comprar coche" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-6" value="Alquilar coche&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Comprar%20coche%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22380%22%20y%3D%22-490%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-7" value="Vender coche" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-14" value="Registrar titularidad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="-550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ0_NsSVP1oYTgmPWNTH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="IJ0_NsSVP1oYTgmPWNTH-5" target="IJ0_NsSVP1oYTgmPWNTH-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-510" as="sourcePoint" />
+            <mxPoint x="585" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
